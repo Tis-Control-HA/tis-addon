@@ -1,2 +1,1 @@
-# tis-addon
-TIS Home Assistant Add-on
+# TIS Addon (Device Manager)
